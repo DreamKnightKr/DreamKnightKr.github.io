@@ -1,0 +1,28 @@
+id`ko`en
+string`string`string
+BTN_OK`확인`OK
+BTN_Yes`예`Yes
+BTN_No`아니요`No
+BTN_Close`닫기`Close
+BTN_Menu`메뉴`Menu
+BTN_PlayGround`연습광장`PlayGround
+BTN_Title`타이틀`Title
+BTN_Save`저장`Save
+Popup_Menu_Title`메뉴`Menu
+Popup_Menu_Language_ko`한국어`Korean
+Popup_Menu_Language_en`영어`English
+Popup_Message_Title`알림`Message
+Popup_Message_AvatarSave`아바타 저장됨`Avatar Saved
+CUSTOME_Faces`얼굴`Face
+CUSTOME_Hairstyle`헤어`HairStyle
+CUSTOME_Hat`모자`Hat
+CUSTOME_FaceAccessories`얼굴 장식`FaceAccessories
+CUSTOME_Glasses`안경`Glasses
+CUSTOME_Outfit`외투`Outfit
+CUSTOME_Outwear`상의`Outwear
+CUSTOME_Gloves`장갑`Gloves
+CUSTOME_Pants`하의`Pants
+CUSTOME_Shorts`반바지`Shorts
+CUSTOME_Socks`양말`Socks
+CUSTOME_Shoes`신발`Shoes
+CUSTOME_SkinColor`피부색`SkinColor
