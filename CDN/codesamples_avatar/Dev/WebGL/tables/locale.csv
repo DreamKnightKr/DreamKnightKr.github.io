@@ -8,11 +8,14 @@ BTN_Menu`메뉴`Menu
 BTN_PlayGround`연습광장`PlayGround
 BTN_Title`타이틀`Title
 BTN_Save`저장`Save
+BTN_Save_Close`저장 & 닫기`Save & Close
 Popup_Menu_Title`메뉴`Menu
 Popup_Menu_Language_ko`한국어`Korean
 Popup_Menu_Language_en`영어`English
 Popup_Message_Title`알림`Message
 Popup_Message_AvatarSave`아바타 저장됨`Avatar Saved
+Popup_Menu_BGM`배경음`BGM
+Popup_Menu_SFX`효과음`Sfx
 CUSTOME_Faces`얼굴`Face
 CUSTOME_Hairstyle`헤어`HairStyle
 CUSTOME_Hat`모자`Hat
