@@ -4,6 +4,7 @@ BTN_OK`확인`OK
 BTN_Yes`예`Yes
 BTN_No`아니요`No
 BTN_Close`닫기`Close
+BTN_Next`다음`Next
 BTN_Menu`메뉴`Menu
 BTN_PlayGround`연습광장`PlayGround
 BTN_Title`타이틀`Title
@@ -33,3 +34,10 @@ PlayGround_Move`이동`Move
 PlayGround_Sprint`달리기`Sprint
 PlayGround_Jump`점프`Jump
 Interact_HandShake`악수하기`Handshake
+Interact_Dialog`대화하기`Talk
+Dialog_1_Person1_Hello`안녕하세요! 오늘 하루 잘 보내고 계신가요?`Hello! Are you having a good day today?
+Dialog_1_Person1_NormalDay`저도 잘 지내고 있어요. 특별한 일 없이 평범하게 지내고 있습니다!`I'm doing well too. Nothing special, just having an ordinary day!
+Dialog_1_Person1_Contact`좋아요! 언제 한번 연락드릴게요.`Sounds good! I'll contact you sometime.
+Dialog_1_Person2_HowAreYou`네, 덕분에 잘 보내고 있어요. 오랜만에 뵙는 것 같은데, 요즘 어떻게 지내세요?`Yes, I'm doing well, thank you. It's been a while since we met. How have you been lately?
+Dialog_1_Person2_Meal`다행이네요. 다음에 시간 되실 때 같이 식사 한번 할까요?`That's good to hear. Shall we have a meal together next time when you have time?
+Dialog_1_Person2_Waiting`네, 기다리고 있겠습니다. 조심히 가세요!`Yes, I'll be waiting. Take care!
