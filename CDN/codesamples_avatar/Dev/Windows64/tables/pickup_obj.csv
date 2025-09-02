@@ -1,0 +1,4 @@
+﻿id`item_ids`memo
+int`string`string
+10001`10001|20001`		// ShopGun + ShopBullet
+30020`30020`			// StartPoint
